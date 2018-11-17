@@ -1,6 +1,6 @@
 Find Your Pace
 
-<img src="./assets/Images/fypScreenshots.jpg" alt="Project Screenshot" width="1000px">
+<img src="./assets/Images/fypScreenshots.jpg" alt="Project Screenshot" width="1500px">
 Find Your Pace (FYP) is a run pace calculator that estimates your predicted pace for training runs and races based on today's weather.
 
 Running in circles trying to figure out if you ran a 7:19 or a 7:17 minutes per mile pace in your last race? Find Your Pace does the math for you! Just enter your personal best time from a race or time trial, the race distance, the temperature, dew point, and wind speed from that day, and where you're running today, and FYP will tell you your pace and estimate your running performance today.
